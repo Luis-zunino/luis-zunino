@@ -1,7 +1,7 @@
 # Hola, soy Luis Zunino 👋
 
 ### Frontend Developer / Full Stack Senior basado en Uruguay 🇺🇾
-Desarrollador apasionado por crear interfaces ultra-limpias, animaciones fluidas y arquitecturas escalables. [cite_start]Cuento con cerca de **4 años de experiencia** construyendo soluciones robustas para los sectores financiero y de agronegocios[cite: 8, 10].
+Desarrollador apasionado por crear interfaces ultra-limpias, animaciones fluidas y arquitecturas escalables. Cuento con cerca de **4 años de experiencia** construyendo soluciones robustas para los sectores financiero y de agronegocios.
 
 ---
 
