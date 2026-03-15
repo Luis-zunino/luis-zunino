@@ -1,37 +1,51 @@
-## Bienvenido a mi GitHub 👋
+# Hola, soy Luis Zunino 👋
 
-Soy de San José, Uruguay, tengo 29 años, me considero un fanático de la tecnología móvil y tengo una gran atracción hacia las matemáticas.
- Mi objetivo es mejorar mis habilidades como desarrollador, continuar aprendiendo y poder crecer dentro del mundo de la programación.
+### Frontend Developer / Full Stack Senior basado en Uruguay 🇺🇾
+Desarrollador apasionado por crear interfaces ultra-limpias, animaciones fluidas y arquitecturas escalables. [cite_start]Cuento con cerca de **4 años de experiencia** construyendo soluciones robustas para los sectores financiero y de agronegocios[cite: 8, 10].
 
-### LinkedIn 👀
+---
 
-📝 <a target="_blank" href="https://www.linkedin.com/in/luis-zunino/">Perfil</a>
+### 🚀 Sobre mí
+- [cite_start]💻 Actualmente trabajando en **Sofka Technologies** como Frontend Developer[cite: 19, 20].
+- [cite_start]🏗️ Especialista en **Arquitectura de Microfrontends**, monorepos con **Turborepo** y gestión de estado eficiente[cite: 9, 22, 23].
+- 🛡️ Enfocado en la **seguridad de datos** y cumplimiento normativo en el desarrollo de software.
+- [cite_start]📐 Background en **Matemáticas**, lo que me brinda un enfoque analítico para la resolución de problemas complejos.
+- [cite_start]📍 Basado en San José/Montevideo, Uruguay[cite: 3].
 
-🌱
+### 🛠️ Tech Stack & Herramientas
 
-### Lenguajes y Herramientas 🔧
+**Frontend & Mobile**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat-square)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?logo=react-query&logoColor=white&style=flat-square)
 
-<br>
+**UI & Estilos**
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
+![Shadcn/UI](https://img.shields.io/badge/-Shadcn/UI-000000?logo=shadcnui&logoColor=white&style=flat-square)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?logo=framer&logoColor=white&style=flat-square)
 
-![React](https://img.shields.io/badge/-React-black?logo=React&style=social)&nbsp;&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?logo=Vue.js&style=social)&nbsp;&nbsp;
-![AJAX](https://img.shields.io/badge/-AJAX-black?logo=AJAX&style=social)&nbsp;&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=social)&nbsp;&nbsp;
-![Express](https://img.shields.io/badge/-Express-black?logo=Express&style=social)&nbsp;&nbsp;
-![Passport](https://img.shields.io/badge/-Passport-black?logo=Passport&style=social)&nbsp;&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=MongoDB&style=social)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social)&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![JWT](https://img.shields.io/badge/-JWT-black?logo=JWT&style=social)&nbsp;&nbsp;
+**Backend & Tools**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)
+![Turborepo](https://img.shields.io/badge/-Turborepo-EF4444?logo=turborepo&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-zunino&&theme=dark&layout=compact)](https://github.com/luis-zunino/github-readme-stats)
+---
 
-[![Estadísticas de GitHub de Luis-zunino](https://github-readme-stats.vercel.app/api?username=luis-zunino&count_private=true&theme=dark&show_icons=true)](https://github.com/luis-zunino/github-readme-stats)
+### 📈 Estadísticas de GitHub
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luis-zunino&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Estadísticas de Luis" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-zunino&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Lenguajes más usados" height="150" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luis-zunino&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+---
+
+### 📫 Conectemos
+- [cite_start]💼 **LinkedIn:** [linkedin.com/in/luis-zunino/](https://www.linkedin.com/in/luis-zunino/) [cite: 4]
+- [cite_start]📧 **Email:** zuninoluis01@gmail.com [cite: 3]
+- [cite_start]🌐 **Portfolio:** [reviuy.vercel.app](https://reviuy.vercel.app) [cite: 6]
+
+---
+*"Transformando lógica matemática en interfaces fluidas."*
