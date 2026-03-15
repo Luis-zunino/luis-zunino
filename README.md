@@ -6,11 +6,11 @@ Desarrollador apasionado por crear interfaces ultra-limpias, animaciones fluidas
 ---
 
 ### 🚀 Sobre mí
-- [cite_start]💻 Actualmente trabajando en **Sofka Technologies** como Frontend Developer[cite: 19, 20].
-- [cite_start]🏗️ Especialista en **Arquitectura de Microfrontends**, monorepos con **Turborepo** y gestión de estado eficiente[cite: 9, 22, 23].
+- 💻 Actualmente trabajando en **Sofka Technologies** como Frontend Developer.
+- 🏗️ Especialista en **Arquitectura de Microfrontends**, monorepos con **Turborepo** y gestión de estado eficiente.
 - 🛡️ Enfocado en la **seguridad de datos** y cumplimiento normativo en el desarrollo de software.
-- [cite_start]📐 Background en **Matemáticas**, lo que me brinda un enfoque analítico para la resolución de problemas complejos.
-- [cite_start]📍 Basado en San José/Montevideo, Uruguay[cite: 3].
+- 📐 Background en **Matemáticas**, lo que me brinda un enfoque analítico para la resolución de problemas complejos.
+- 📍 Basado en San José/Montevideo, Uruguay.
 
 ### 🛠️ Tech Stack & Herramientas
 
@@ -43,9 +43,9 @@ Desarrollador apasionado por crear interfaces ultra-limpias, animaciones fluidas
 ---
 
 ### 📫 Conectemos
-- [cite_start]💼 **LinkedIn:** [linkedin.com/in/luis-zunino/](https://www.linkedin.com/in/luis-zunino/) [cite: 4]
-- [cite_start]📧 **Email:** zuninoluis01@gmail.com [cite: 3]
-- [cite_start]🌐 **Portfolio:** [reviuy.vercel.app](https://reviuy.vercel.app) [cite: 6]
+- 💼 **LinkedIn:** [linkedin.com/in/luis-zunino/](https://www.linkedin.com/in/luis-zunino/)
+- 📧 **Email:** zuninoluis01@gmail.com
+- 🌐 **Portfolio:** [reviuy.vercel.app](https://reviuy.vercel.app)
 
 ---
 *"Transformando lógica matemática en interfaces fluidas."*
